@@ -1,14 +1,13 @@
 Bakalárska práca
+----------------------------------------------------------------------------------------
 - Názov práce: Aplikácia vhodných metód dátovej analytiky na predikciu mozgovej príhody
 - Autor: Vanesa Sabolová
 - Vedúci: Ing. Anna Biceková, PhD.
 ----------------------------------------------------------------------------------------
-
 - použité klasifikačné modely: Nahodný les, Naivný Bayes, K-najbližších susedov, Rozhodovací strom, Logistická regresia
 - použité modely zhlukovanie: K-Means
 - použité Asociačné pravidlá na vybratie dôležitých atribútov datasetu (Asociačné_pravidlá.ipynb)
 - použité grafy na lepšiu vizualizáciu (Grafy.ipynb)
-
 ----------------------------------------------------------------------------------------
 Každý model má dva nootebooky(zošity):
 
